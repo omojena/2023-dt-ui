@@ -38,7 +38,7 @@
 
 <script>
 import TopBar from "@/components/top-bar/topBar";
-import {mapActions, mapGetters, mapMutations} from "vuex";
+import {mapActions, mapMutations} from "vuex";
 import {api_type_position} from "@/urls";
 import {getStorage} from "@/utils";
 
