@@ -1,0 +1,10 @@
+const TYPE_CLIENT = {
+    HABITUAL: 'HABITUAL',
+    OCACIONAL: 'OCACIONAL',
+    EMPRESA: 'EMPRESA',
+    AGENCIA_VIAJE: 'AGENCIA DE VIAJE'
+}
+
+module.exports = {
+    TYPE_CLIENT
+}

@@ -1,0 +1,10 @@
+const SUBSCRIPTION_TYPE = {
+  DIARIA: 'DIARIA',
+  SEMANAL: 'SEMANAL',
+  MENSUAL: 'MENSUAL',
+  ANUAL: 'ANUAL'
+}
+
+module.exports = {
+  SUBSCRIPTION_TYPE
+}
